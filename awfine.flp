@@ -1,0 +1,16 @@
+<flash_project version="1" name="awfine">
+  <project_file path="Jewels.as" filetype="as"/>
+  <project_file path="Main.as" filetype="as"/>
+  <project_file path="SlideShow.as" filetype="as"/>
+  <project_file path="main.fla" filetype="fla"/>
+  <project_file path="MainLoader.fla" filetype="fla"/>
+  <project_file path="main.html" filetype="html"/>
+  <project_file path="AC_RunActiveContent.js" filetype="js"/>
+  <project_file path="main.swf" filetype="swf"/>
+  <project_file path="MainLoader.swf" filetype="swf"/>
+  <project_file path="about_us.xml" filetype="xml"/>
+  <project_file path="contact_us.xml" filetype="xml"/>
+  <project_file path="home.xml" filetype="xml"/>
+  <project_file path="intro.xml" filetype="xml"/>
+  <project_file path="jewels.xml" filetype="xml"/>
+</flash_project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<contents name="intro">
+
+<image url="intro/image1.png" desc="desc for image1 comes here" />
+<image url="intro/image2.png" desc="desc for image1 comes here" />
+<image url="intro/image3.png" desc="desc for image1 comes here" />
+<!--<image url="intro/image4.jpg" desc="desc for image1 comes here" />
+-->
+</contents>
